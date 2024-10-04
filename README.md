@@ -1,6 +1,6 @@
 # EX-06 Named Entity Recognition
 ### Aim:
-To develop an LSTM-based model for recognizing the named entities in the text. &emsp;&emsp;&emsp; **DATE :01.10.2024**
+To develop an LSTM-based model for recognizing the named entities in the text. &emsp;&emsp;&emsp; 
 
 ### Problem Statement and Dataset:
 Named Entity Recognition (NER) is essential in NLP, focusing on identifying and classifying entities like persons, organizations, and locations in text. This project aims to develop an LSTM-based model to predict entity tags for each word in sentences. The dataset includes words, their POS tags, and standard NER tags such as ORGANIZATION, PERSON, LOCATION, and DATE. Accurate NER enhances applications like information extraction, question answering, and sentiment analysis.
